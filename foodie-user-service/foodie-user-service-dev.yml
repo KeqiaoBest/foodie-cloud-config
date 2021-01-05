@@ -6,4 +6,4 @@ mariadb:
 #功能开馆，开启关闭用户注册功能
 userservice:
   registration:
-    disabled: true
+    disabled: false
